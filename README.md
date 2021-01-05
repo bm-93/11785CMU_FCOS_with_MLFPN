@@ -5,3 +5,7 @@ and classification accuracy. We compare this model to an anchor-based single FPN
 
 Refer to our explanatory video:
 https://www.youtube.com/watch?v=2-GGyW59CLw&list=PLp-0K3kfddPzcVQIc7eh0kOaOLhtWksJo&index=7&t=2s
+
+ARCHITECTURE
+
+![---](FCOS_MLFPN_Architecture.png)
